@@ -1,5 +1,5 @@
 # Makefile
-install: # dependencies
+install: #
 	npm install
 brain-games: # run
 	node bin/brain-games.js
